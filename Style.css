@@ -1,0 +1,12 @@
+html * {margin: 10px; max-width: 100%;};                                                                                                                                                  
+#logotipo {width: 10px; 
+margin-left : 20px;}
+p {color: white; font-size:30px;  }
+h2 {color: rgb(8, 8, 8);}
+body {background-color: red;color: white}
+
+main {background-color: red;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-area: 5px;
+nav-index: 30px; background-color: yellow;
